@@ -1,0 +1,19 @@
+a {
+  color: #337ab7 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
+
+.table-header div {
+  padding: 3px;
+  background-color: #6b90da;
+}
+
+.table-data div {
+  padding: 2px 3px;
+  margin-right: 3px;
+  border-bottom: 2px solid #f7ebeb;
+}
